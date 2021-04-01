@@ -6,10 +6,10 @@ const sizes = {
 };
 
 const colors = {
-  default: "#e6e6e6",
+  default: "#d3d3d3",
   "gray-light": "#e1e4e8",
   gray: "#586069",
-  "gray-dark": "#e6e6e6",
+  "gray-dark": "#d3d3d3",
 };
 
 const families = {
