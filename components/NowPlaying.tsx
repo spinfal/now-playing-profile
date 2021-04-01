@@ -38,7 +38,7 @@ export const Player: React.FC<Props> = ({
             p {
               text-transform: lowercase;
               display: block;
-              opacity: 0;
+              opacity: 1;
             }
 
             .progress-bar {
@@ -69,7 +69,7 @@ export const Player: React.FC<Props> = ({
             #track,
             #artist,
             #cover {
-              opacity: 0;
+              opacity: 1;
             }
 
             #track {
@@ -93,7 +93,7 @@ export const Player: React.FC<Props> = ({
 
             @keyframes cover-appear {
               from {
-                opacity: 0;
+                opacity: 1;
                 transform: scale(0.8);
               }
               to {
@@ -104,7 +104,7 @@ export const Player: React.FC<Props> = ({
 
             @keyframes appear {
               from {
-                opacity: 0;
+                opacity: 1;
                 transform: translateX(-8px);
               }
               to {
