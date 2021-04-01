@@ -36,6 +36,7 @@ export const Player: React.FC<Props> = ({
             }
 
             p {
+              color: white;
               text-transform: lowercase;
               display: block;
               opacity: 1;
