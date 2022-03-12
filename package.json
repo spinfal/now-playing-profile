@@ -7,7 +7,7 @@
   "dependencies": {
     "faunadb": "^2.14.2",
     "isomorphic-unfetch": "^3.0.0",
-    "querystring": "^0.2.0",
+    "querystring": "^0.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "typescript": "^3.9.6"
